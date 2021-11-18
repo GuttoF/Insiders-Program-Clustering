@@ -2,7 +2,7 @@
 
 ## This projets has a gol to discovery similarity people to join a loyalty probram
 
-#### This project was made by Meigarom Lopes.
+#### This project was made by Gutto França.
 
 # 1. Business Problem.
 
